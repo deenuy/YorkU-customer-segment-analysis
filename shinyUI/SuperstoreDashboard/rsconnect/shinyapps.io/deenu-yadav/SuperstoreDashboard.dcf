@@ -1,0 +1,12 @@
+name: SuperstoreDashboard
+title: SuperstoreDashboard
+username:
+account: deenu-yadav
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2147231
+bundleId: 3041174
+url: https://deenu-yadav.shinyapps.io/SuperstoreDashboard/
+when: 1587419490.35599
+asMultiple: FALSE
+asStatic: FALSE
